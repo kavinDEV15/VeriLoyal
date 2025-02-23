@@ -1,0 +1,10 @@
+streamlit
+pymongo
+bcrypt
+plotly
+requests
+nomic
+chromadb
+ollama
+fastapi 
+uvicorn

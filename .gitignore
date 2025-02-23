@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+
+# Environment variables
+.env
+*.env
+
+# Data storage and embeddings
+data/
+embeddings_store/
+
+# Dependency caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and debug files
+*.log
+debug.log
+nohup.out
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Python dependency management
+requirements.txt.lock
+
+# Ignore large model files if any
+*.h5
+*.ckpt
+*.onnx
