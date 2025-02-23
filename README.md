@@ -10,6 +10,15 @@ Built with FastAPI, Python, and Large Language Models (LLMs), VeriLoyal integrat
 
 ---
 
+## Team - AI-nstein's Disciples
+- Kavin Dev  
+- Gayathri Yerramredy  
+- Shivani Kankala  
+- Shri Sakitha  
+- Vinothini  
+
+---
+
 ## Project Structure
 ```
 VERILOYAL/
@@ -116,3 +125,4 @@ VeriLoyal is built to revolutionize customer retention by ensuring proactive and
 This project is licensed under the MIT License.
 
 ---
+
